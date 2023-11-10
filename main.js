@@ -1,3 +1,4 @@
+script
 function pommn (){
     document.querySelector('#som_tecla_pom').play();
 }
