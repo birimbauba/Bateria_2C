@@ -1,5 +1,5 @@
 script
-function pommn (){
+function pom (){
     document.querySelector('#som_tecla_pom').play();
 }
-document.querySelector('.tecla_pm').onclick = pommn;
+document.querySelector('.tecla_pom').onclick = pom;
